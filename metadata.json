@@ -1,0 +1,5 @@
+{
+  "name": "JVM Trinity Analyzer",
+  "description": "A deep-insight JVM fault analysis platform correlating Javacore, Heapdump, and GC Logs using cross-modal entity linking.",
+  "requestFramePermissions": []
+}
